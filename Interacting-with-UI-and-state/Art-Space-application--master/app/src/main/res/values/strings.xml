@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="traveler">Traveler</string>
+    <string name="traveler_year">2024</string>
+    <string name="sayu"> Sayu</string>
+    <string name="sayu_year">2023</string>
+    <string name="gaming">Gaming</string>
+    <string name="gaming_year">2022</string>
+    <string name="barbara">Barbara</string>
+    <string name="barbara_year">2021</string>
+</resources>
